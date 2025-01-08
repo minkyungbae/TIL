@@ -3,6 +3,7 @@
 [TIL] 내일배움캠프 본캠프 3일차_Python 문제 풀이
 
 ---
+### <center>**요약**
 1. Hello World 5번 출력
 2. Hello World 4번 출력
 3. 순회를 돌아 numbers 요소 출력
