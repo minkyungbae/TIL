@@ -1,4 +1,4 @@
-[TIL_8일차](https://bmk0703.tistory.com/55)
+[TIL_15일차](https://bmk0703.tistory.com/55)
 
 ### <center> *TIL* </center>
 [TIL] 내일배움캠프 본캠프 15일차_ 코드 카타, git 특강
