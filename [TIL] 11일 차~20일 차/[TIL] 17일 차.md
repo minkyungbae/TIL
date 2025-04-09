@@ -1,4 +1,4 @@
-[TIL_16일차](https://bmk0703.tistory.com/67)
+[TIL_17일차](https://bmk0703.tistory.com/67)
 
 ### <center> *TIL* </center>
 [TIL] 내일배움캠프 본캠프 17일차_코드 카타, 백준, 머신러닝 특강
