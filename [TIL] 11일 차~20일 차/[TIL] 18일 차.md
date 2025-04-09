@@ -1,4 +1,4 @@
-[TIL_16일차](https://bmk0703.tistory.com/69)
+[TIL_18일차](https://bmk0703.tistory.com/69)
 
 ### <center> *TIL* </center>
 [TIL] 내일배움캠프 본캠프 18일차_코드 카타, 프로그래머스, git 특강(브랜치, 머지)
